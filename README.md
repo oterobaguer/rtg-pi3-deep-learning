@@ -3,6 +3,10 @@
 Here you will find the course exercises as well as the solutions.
 If you have any question or find any error please write me an email to otero@uni-bremen.de.
 
+## Schedule
+
+![](schedule.jpg)
+
 ## Google Colab instructions
 
 ### 1) Create a google account (if you don't have one)
