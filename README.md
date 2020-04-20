@@ -28,7 +28,7 @@ If you are using Git, then this happens automatically, otherwise download a .zip
 
 For the exercises we are going to use Python (we recommend to use the Miniconda distribution).
 
-The installer files for all platforms (Windows, Lunix, Mac) can be found in:
+The installer files for all platforms (Windows, Linux, Mac) can be found in:
 
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
