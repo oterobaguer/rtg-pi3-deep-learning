@@ -25,8 +25,10 @@ Select the GITHUB tab (1) and type `oterobaguer` (2). Then select the `rtg-pi3-d
 
 ## Local installation instructions
 
+We strongly recommend to use Google Colab, specially because the data will be stored in Google Drive, which can be accessed directly from Google Colab without having to download it. In case you want to use your local environment you will have to download the dataset (approx. 10Gb).
+
 ### 1) Create folder for the exercises 
-If you are using Git, then this happens automatically, otherwise download a .zip file with the content of the repository and uncompress it. Be careful that you don't loose your own solutions when updating the folder!
+If you are using Git, then this happens automatically when you clone the repository, otherwise download a .zip file with the content of the repository and uncompress it. Be careful that you don't loose your own solutions when updating the folder!
 
 ### 2) Install Python
 
@@ -36,7 +38,7 @@ The installer files for all platforms (Windows, Linux, Mac) can be found in:
 
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
-Please download the appropiate installer and run it.
+Please download the installer and run it.
 
  - If your computer has a 64-bit operating system (most likely) select the *64-bit installer* for *Python 3.7*.
 
@@ -45,7 +47,7 @@ Please download the appropiate installer and run it.
  - If you get asked if you want to add the Miniconda directory to the `PATH` select yes.
  
  
-Confirm that you have successfully installed Miniconda by opening a console and typing `conda`. If an error appears then Conda was not added to the `PATH`. You have to search for the *Anaconda Promt* terminal and open it. Then you have to change the directory the terminal is pointing to, using for example `cd local_folder\local_folder2`, to the directory that contains the exercises.
+Confirm that you have successfully installed Miniconda by opening a console and typing `conda`. If an error appears then Conda was not added to the `PATH`. You have to search for the *Anaconda Prompt* terminal and open it. Then you have to change the directory the terminal is pointing to, using for example `cd local_folder\local_folder2`, to the directory that contains the exercises.
  
 ### 3) Install required packages
 
