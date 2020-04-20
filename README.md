@@ -1,4 +1,4 @@
-# Hands-on sessions of the RTG-$\pi^3$ Compact Course A3 on Deep Learning for Digital Pathology and Inverse Problems
+# Deep Learning for Digital Pathology and Inverse Problems
 
 Here you will find the course exercises as well as the solutions.
 If you have any question or find any error please write me an email to otero@uni-bremen.de.
