@@ -7,6 +7,11 @@ If you have any question or find any error please write me an email to otero@uni
 
 ![](schedule.jpg)
 
+## Slides
+
+Introductory slides for convolutional neural networks, data augmentation and transfer learning:
+[slides_daniel.pdf](https://github.com/oterobaguer/rtg-pi3-deep-learning/blob/master/slides_daniel.pdf)
+
 ## Google Colab instructions
 
 ### 1) Create a google account (if you don't have one)
