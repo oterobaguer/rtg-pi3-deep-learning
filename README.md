@@ -10,7 +10,7 @@ If you have any question or find any error please write me an email to otero@uni
 ## Slides
 
 Introductory slides for convolutional neural networks, data augmentation and transfer learning:
-[slides_daniel.pdf](https://github.com/oterobaguer/rtg-pi3-deep-learning/blob/master/slides_daniel.pdf)\\
+[slides_daniel.pdf](https://github.com/oterobaguer/rtg-pi3-deep-learning/blob/master/slides_daniel.pdf)
 
 
 Data driven approaches for neural networks:
